@@ -1,4 +1,4 @@
-# HW01-Excel
+# Kickstarter Analysis using Excel
 
 ## Background
 
